@@ -1,5 +1,5 @@
 ---
-title: Analisis Pengaruh Kurs Dollar Amerika/ Rupiah (USD/ Rp) dan Inflasi Terhadap Jakarta Islamic Index (JII)
+title: Analisis Komponen Utama untuk Menentukan Indikator yang Mempengaruhi Kemiskinan di Jawa Timur tahun 2021 
 author: "Yessica Maretha Simanjuntak"
 date: "11/05/2022"
 output:
