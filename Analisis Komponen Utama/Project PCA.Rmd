@@ -1,7 +1,7 @@
 ---
 title: Analisis Komponen Utama untuk Menentukan Indikator yang Mempengaruhi Kemiskinan di Jawa Timur tahun 2021 
 author: "Yessica Maretha Simanjuntak"
-date: "11/05/2022"
+date: "10/29/2022"
 output:
   prettydoc::html_pretty:
     theme: hpstr
