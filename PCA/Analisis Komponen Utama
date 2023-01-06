@@ -20,7 +20,6 @@ scree_data <- data.frame(eigen_value = eigen(Kemiskinan_cor)$values, PC = 1:7)
 plot(x = scree_data$PC, y = scree_data$eigen_value, type = 'b',
      xlab = 'Komponen Utama ke-', ylab = 'Varians (Nilai Eigen)', main = 'Scree Plot')
 
-
 # Menghitung Koefisien Komponen Utama
 pca <- prcomp(x = DataPCA[, c(-1)], center = TRUE, scale. = TRUE)
 pca
